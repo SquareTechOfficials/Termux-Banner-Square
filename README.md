@@ -3,7 +3,7 @@
 
 Installation Step :
 
-1) git clone
+1) git clone https://github.com/SquareTechOfficials/Termux-Banner-Square.git
 
 
 2) cd Termux-Banner
