@@ -6,7 +6,7 @@ Installation Step :
 1) git clone https://github.com/SquareTechOfficials/Termux-Banner-Square.git
 
 
-2) cd Termux-Banner
+2) cd Termux-Banner-Square
 
 
 3) chmod +x requirement.sh
