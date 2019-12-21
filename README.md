@@ -1,9 +1,9 @@
 # Termux Banner
-#Script by Sutariya Parixit
+#Script by Mukesh Singour 
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone
 
 
 2) cd Termux-Banner
